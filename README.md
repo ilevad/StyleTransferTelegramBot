@@ -1,4 +1,3 @@
 # StyleTransferTelegramBot
 
-Финальный проект по курсу Deep Learning School
-Телеграм-бот переноса стиля
+Финальный проект по курсу Deep Learning School. Телеграм-бот переноса стиля
